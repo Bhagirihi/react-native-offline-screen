@@ -7,14 +7,10 @@ This package in on beta version,And still in Development Mode.
 
 ## ScreenShoots
 
-<img src="https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false" width="200px">
+<p align="center">
+  <img src="https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false" width="200px">
 <img src="https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Offline.png?raw=false" width="200px">
-
-<!-- ![Normal App Screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false)
-
-![React-native-offline-screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Offline.png?raw=false) -->
-
-
+</p>
 
 ## Installation
 
