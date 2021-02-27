@@ -1,0 +1,36 @@
+{
+  "name": "react-native-offline-screen",
+  "version": "0.0.5",
+  "description": "A react native offline screen which you can use while you are not connected with internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-Native",
+    "react",
+    "native",
+    "Offline",
+    "screen",
+    "offline-Screen",
+    "react-native-offline-screen",
+    "rect",
+    "native",
+    "offline",
+    "screen"
+  ],
+  "author": "Dhruv Dave <dhruvdve@yahoo.in>",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.60.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.1",
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "^6.0.0"
+  }
+}
