@@ -7,9 +7,15 @@ This package in on beta version,And still in Development Mode.
 
 ## ScreenShoots
 
-![Normal App Screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false)
+<img src="https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false" width="200px">
+<img src="https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Offline.png?raw=false" width="200px">
 
-![React-native-offline-screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Offline.png?raw=false)
+<!-- ![Normal App Screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Normal.png?raw=false)
+
+![React-native-offline-screen](https://github.com/Bhagirihi/react-native-offline-screen/blob/Master/Screenshoots/Offline.png?raw=false) -->
+
+
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/get-npm) or [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) to install this Package.
@@ -17,7 +23,7 @@ Use the package manager [npm](https://www.npmjs.com/get-npm) or [yarn](https://c
 This library uses [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) behind the scenes, which contains native code, so you need to install it.
 
 install the library using either npm:
-```bash
+```bash̀
 npm install react-native-offline-screen
 npm install --save @react-native-community/netinfo
 
